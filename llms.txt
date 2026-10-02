@@ -1,0 +1,11 @@
+# Country Hills Nissan
+
+> Country Hills Nissan is a Nissan dealership in AB. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
+
+## Inventory
+- [Used vehicles](https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/): 553 vehicles, updated regularly
+- [Inventory feed](https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+
+## Resources
+- [Dealership information](https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/): business identity, contact and hours
+- [Financing, sales and service guides](https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/pages/): dealer-specific buyer guides
