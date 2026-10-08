@@ -1,6 +1,6 @@
 {
   "dealership": "Country Hills Nissan",
-  "generated_at": "2026-10-07T15:08:19",
+  "generated_at": "2026-10-08T14:31:04",
   "vehicle_count": 580,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,7 +18,9 @@
       "year": 1998,
       "make": "Land",
       "model": "Rover Discovery E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2004 Kia Sorento EX / AWD / NO ACCIDENTS",
@@ -36,7 +38,9 @@
       "year": 2004,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2005 Acura MDX TECHNOLOGY / MECHANIC SPECIAL",
@@ -54,7 +58,9 @@
       "year": 2005,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2005 Chevrolet Malibu Maxx LS",
@@ -72,7 +78,9 @@
       "year": 2005,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2005 Mercedes-Benz E-Class Sedan 3.2L",
@@ -89,7 +97,9 @@
       "year": 2005,
       "make": "Mercedes-Benz",
       "model": "E-Class Sedan 3.2L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2006 Mercedes-Benz M-Class ML350 | 3.5L V6 | AWD | LEATHER | MECHANIC SPECIAL",
@@ -106,7 +116,9 @@
       "year": 2006,
       "make": "Mercedes-Benz",
       "model": "M-Class ML350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2006 Nissan X-Trail | AWD | CLOTH | MOONROOF | MECHANIC SPECIAL |",
@@ -123,7 +135,9 @@
       "year": 2006,
       "make": "Nissan",
       "model": "X-Trail",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2007 Kia Sedona EX / MECH SPECIAL",
@@ -140,7 +154,9 @@
       "year": 2007,
       "make": "Kia",
       "model": "Sedona EX / MECH SPECIAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2008 Buick Enclave CXL",
@@ -158,7 +174,9 @@
       "year": 2008,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2008 Mitsubishi Endeavor SE | 3.8L V6 | 4WD | MECHANIC SPECIAL |",
@@ -175,7 +193,9 @@
       "year": 2008,
       "make": "Mitsubishi",
       "model": "Endeavor SE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2008 Nissan Rogue SL | AWD | LEATHER | MECHANIC SPECIAL |",
@@ -193,7 +213,9 @@
       "year": 2008,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2010 Ford F 150 XLT / LONGBOX / MECHANIC SPECIAL",
@@ -210,7 +232,9 @@
       "year": 2010,
       "make": "Ford",
       "model": "F 150 XLT / LONGBOX / MECHANIC SPECIAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2011 GMC Acadia SLE2",
@@ -228,7 +252,9 @@
       "year": 2011,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2011 Infiniti EX Journey",
@@ -245,7 +271,9 @@
       "year": 2011,
       "make": "Infiniti",
       "model": "EX Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2011 Nissan Juke SV | AWD | BLUETOOTH | MECHANIC SPECIAL |",
@@ -262,7 +290,9 @@
       "year": 2011,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2011 Nissan Rogue SV",
@@ -278,7 +308,9 @@
       "year": 2011,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2011 Suzuki SX4 BASE",
@@ -295,7 +327,9 @@
       "year": 2011,
       "make": "Suzuki",
       "model": "SX4 BASE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2012 Chevrolet Cruze Sedan LT Turbo+ w/1SB",
@@ -313,7 +347,9 @@
       "year": 2012,
       "make": "Chevrolet",
       "model": "Cruze",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2012 Ford Explorer Base AWD | CLEAN CARFAX | PASSING INSPECTION",
@@ -331,7 +367,9 @@
       "year": 2012,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2012 Ford F-350 Super Duty XLT | CREW CAB | FLAT DECK | MECHANIC SPECIAL |",
@@ -349,7 +387,9 @@
       "year": 2012,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2012 GMC Sierra 2500HD WT",
@@ -367,7 +407,9 @@
       "year": 2012,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2012 Mercedes-Benz G-Class G 550 | 5.5L V8 | SUNROOF | HEATED LEATHER | BACKUP CAM",
@@ -384,7 +426,9 @@
       "year": 2012,
       "make": "Mercedes-Benz",
       "model": "G-Class G 550",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2013 Ford Focus Sedan Titanium",
@@ -402,7 +446,9 @@
       "year": 2013,
       "make": "Ford",
       "model": "Focus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2013 Hyundai Elantra GL | BLUETOOTH | HEATED SEATS | MECHANIC SPECIAL |",
@@ -420,7 +466,9 @@
       "year": 2013,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2013 Jeep Wrangler Sport | 3.6L V6 | 6-SPEED | **MECH SPECIAL** | 4X4 | ALLOYS | ANDROID DECK | SOFT TOP",
@@ -438,7 +486,9 @@
       "year": 2013,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2013 Mitsubishi RVR GT / AWD / NO ACCIDENTS / MECH SPEICAL",
@@ -456,7 +506,9 @@
       "year": 2013,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2013 Toyota Sienna XLE",
@@ -474,7 +526,9 @@
       "year": 2013,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2014 GMC Sierra 2500HD SLT | 6.6L DURAMAX | STD BOX | DELETED | VENTED LEATHER | DVD | SUNROOF",
@@ -492,7 +546,9 @@
       "year": 2014,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2014 Jeep Compass NORTH | AWD | LEATHER | MECHANIC SPECIAL |",
@@ -510,7 +566,9 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2014 Jeep Wrangler SPORT / HARD TOP / POWER & CONNECTIVITY PKG / BLACK APPEARANCE /",
@@ -528,7 +586,9 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2014 RAM 2500 SLT / 5.7L / NO ACCIDENTS",
@@ -546,7 +606,9 @@
       "year": 2014,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Audi Q5 2.0T Komfort | 2.0L TSI | QUATTRO AWD | HEATED LEATHER | AUTO CLIMATE",
@@ -564,7 +626,9 @@
       "year": 2015,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 BMW X3 XDRIVE 28I /",
@@ -582,7 +646,9 @@
       "year": 2015,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 GMC Terrain SLE / FWD / 1 OWNER NO ACCIDENTS",
@@ -600,7 +666,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 GMC Yukon SLT - LEATHER - HEATED SEATS - SUNROOF - 2ND ROW BUCKET SEATS",
@@ -618,7 +686,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Jeep Cherokee SPORT",
@@ -636,7 +706,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Land Rover Range Rover Sport SC",
@@ -653,7 +725,9 @@
       "year": 2015,
       "make": "Land",
       "model": "Rover Range Rover Sport SC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Nissan Micra S | 5 SPEED MANUAL | NO ACCIDENTS | MECHANIC SPECI",
@@ -671,7 +745,9 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Nissan Rogue SV | MOONROOF | BACK UP CAM | HEATED SEATS |",
@@ -689,7 +765,9 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2015 Nissan Rogue",
@@ -704,7 +782,9 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Chevrolet Colorado 4WD Z71 | 3.6L V6 | BOSE | NAV | HD TRAILERING PKG | HEATED SEATS",
@@ -722,7 +802,9 @@
       "year": 2016,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 GMC Sierra 1500 SLT",
@@ -738,7 +820,9 @@
       "year": 2016,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Honda Pilot TOURING / 7 PASSENGER / REAR ENTERTAINMENT PKG / NO ACCIDENTS",
@@ -756,7 +840,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Jeep Compass HIGH ALTITUDE",
@@ -774,7 +860,9 @@
       "year": 2016,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Kia Soul EV EV | LOW KM'S | COST EFFICIENT EV",
@@ -791,7 +879,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Nissan Sentra Sedan SV | CLOTH | SUNROOF | BACK UP CAM |",
@@ -809,7 +899,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Nissan Sentra Sedan SV | SUNROOF | BACK UP CAM | MECHANIC SPECIAL |",
@@ -827,7 +919,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2016 Subaru WRX w/Sport Pkg | **MECH SPECIAL** | 2.0L H4 TURBO | 6-SPEED | AWD | SUNROOF | HEATED SEATS | REAR CAM",
@@ -845,7 +939,9 @@
       "year": 2016,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 BMW 3 Series Sedan 330i xDrive | LUXURY SEDAN | LOW KM'S",
@@ -863,7 +959,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Cadillac CTS Sedan LUXURY / CARBON BLACK PKG / AWD / ULTRA LOW KMS",
@@ -880,7 +978,9 @@
       "year": 2017,
       "make": "Cadillac",
       "model": "CTS Sedan LUXURY / CARBON BLACK PKG / AWD / ULTRA LOW KMS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Cadillac Escalade Premium Luxury | 6.2L V8 | HUD | VENTED SEATS | SUNROOF | STARTER",
@@ -898,7 +998,9 @@
       "year": 2017,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Chevrolet Trax LT",
@@ -916,7 +1018,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Chevrolet Trax 1LT - REMOTE START HEATED SEATS",
@@ -934,7 +1038,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Dodge Durango CITADEL / 5.7L / 8 PASSENGER / AWD",
@@ -952,7 +1058,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Dodge Grand Caravan Passenger Van SXT",
@@ -970,7 +1078,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Ford F-150 Lariat | 3.5L ECOBOOST V6 | 502A | ATLAS | PANO ROOF | FX4 | SPORT PKG",
@@ -988,7 +1098,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Ford F-350 Super Duty Lariat | 6.7L POWERSTROKE | LONG BOX | LARIAT ULTIMATE | CAMPER PKG",
@@ -1006,7 +1118,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 GMC Sierra 1500 SLE | **MECH SPECIAL** | 5.3L V8 | HEATED SEATS | REAR CAM | KODIAK",
@@ -1024,7 +1138,9 @@
       "year": 2017,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Honda CR-V LX | 1.5L I4 TURBO | AWD | BLUETOOTH | REAR CAM | AUTO CLIMATE CONTROL",
@@ -1042,7 +1158,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Hyundai Tucson Premium",
@@ -1060,7 +1178,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Jeep Cherokee Limited",
@@ -1076,7 +1196,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Jeep Grand Cherokee Trailhawk",
@@ -1094,7 +1216,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Land Rover Range Rover SPORT SUPERCHARGED V8 | LUXURY SUV | LOW KM'S",
@@ -1110,7 +1234,9 @@
       "year": 2017,
       "make": "Land",
       "model": "Rover Range Rover SPORT SUPERCHARGED V8",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Nissan Pathfinder SL | AWD | MOONROOF | 360 CAM | REMOTE START |",
@@ -1128,7 +1254,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 RAM 2500 Laramie",
@@ -1146,7 +1274,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2017 Toyota 4Runner LIMITED",
@@ -1164,7 +1294,9 @@
       "year": 2017,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 BMW X5 xDrive35i",
@@ -1182,7 +1314,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Chevrolet Silverado 1500 Work Truck | **MECH SPECIAL** | 5.3L V8 | WT FLEET CONV PKG | BEDLINER | TRAILER BRAKE",
@@ -1200,7 +1334,9 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Chevrolet Traverse LT True North | 3.6L V6 | CONV + DRIVER CONFIDENCE PKG | LEATHER",
@@ -1218,7 +1354,9 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Edge SEL | AWD | 2.0L | BACK UP CAM |",
@@ -1236,7 +1374,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Escape SEL / PANO ROOF / LEATHER / NO ACCIDENTS",
@@ -1254,7 +1394,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford F 150 XL | 3.3L V6 | 101A | 17S | 3.73 LOCKER | SYNC | FOG LAMPS | CRUISE |  136-LITRE TANK",
@@ -1271,7 +1413,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "F 150 XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford F 150 ",
@@ -1288,7 +1432,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "F 150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford F 150 XLT",
@@ -1305,7 +1451,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Focus Hatchback Titanium",
@@ -1323,7 +1471,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Focus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Mustang Fastback EcoBoost | 2.3L TURBO | 101A | AUTO | BLACK APP PKG | 19S | SECURITY PKG",
@@ -1341,7 +1491,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Jeep Cherokee Sport",
@@ -1359,7 +1511,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Jeep Wrangler Sahara | AWD | BACK UP CAM | NAV | TRAILER PKG |",
@@ -1377,7 +1531,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Lincoln Navigator L SELECT / 3.5L ECO / 2ND ROW BENCH / PANO ROOF / NO ACCIDENTS",
@@ -1395,7 +1551,9 @@
       "year": 2018,
       "make": "Lincoln",
       "model": "Navigator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Mazda CX-5 GT | AWD | LEATHER | SUNROOF | BACK UP CAM |",
@@ -1413,7 +1571,9 @@
       "year": 2018,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Mercedes-Benz C-Class Sedan AMG C 63 S",
@@ -1431,7 +1591,9 @@
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "C-Class",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Mercedes-Benz GLC AMG GLC 43",
@@ -1449,7 +1611,9 @@
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "GLC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Mitsubishi RVR GT - HEATED SEATS - SUNROOF",
@@ -1467,7 +1631,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -1484,7 +1650,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 Nissan Titan Crew Cab - SOLD",
@@ -1500,7 +1668,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Titan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2018 RAM 1500 Express",
@@ -1518,7 +1688,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Cadillac XT5 LUXURY / PANO ROOF / DRIVER AWARENESS PKG / NO ACCIDENTS LOW KMS",
@@ -1536,7 +1708,9 @@
       "year": 2019,
       "make": "Cadillac",
       "model": "XT5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Chevrolet Colorado 4WD ZR2",
@@ -1554,7 +1728,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Dodge Grand Caravan Passenger Van Canada Value Package",
@@ -1572,7 +1748,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Dodge Grand Caravan Passenger Van SE",
@@ -1590,7 +1768,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -1607,7 +1787,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 GMC Acadia Denali",
@@ -1625,7 +1807,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 GMC Terrain SLE / DIESEL / SUNROOF / DRIVER ALER PKG / INFOTAINMENT / LOW KMS",
@@ -1643,7 +1827,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 GMC Yukon DENALI / SUNROOF / POWER BOARDS / 1 OWNER NO ACCIDENTS / LOW KMS",
@@ -1661,7 +1847,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Infiniti QX50 ESSENTIAL AWD | LOW PRICE | LEATHER | BOSE SOUND",
@@ -1679,7 +1867,9 @@
       "year": 2019,
       "make": "Infiniti",
       "model": "QX50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Infiniti QX80 LUXE / MECHANIC SPECIAL",
@@ -1697,7 +1887,9 @@
       "year": 2019,
       "make": "Infiniti",
       "model": "QX80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Compass Upland Edition",
@@ -1713,7 +1905,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Compass Sport",
@@ -1731,7 +1925,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Grand Cherokee OVERLAND - LEATHER HEATED SEATS SUNROOF REMOTE START",
@@ -1749,7 +1945,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Kia Rio",
@@ -1764,7 +1962,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Land Rover Range Rover Sport HSE DYNAMIC - LEATHER HEATED SEATS HEATED WHEEL",
@@ -1781,7 +1981,9 @@
       "year": 2019,
       "make": "Land",
       "model": "Rover Range Rover Sport HSE DYNAMIC - LEATHER HEATED SEATS HEATED WHEEL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Nissan Frontier Crew Cab PRO-4X | 4X4 | CLOTH | CREW CAB |",
@@ -1799,7 +2001,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Nissan Pathfinder SL | AWD | LEATHER | MOONROOF | 360 CAM | 3RD ROW",
@@ -1817,7 +2021,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 RAM 1500 Classic Express | 5.7L HEMI | 3.92 ANTI-SPIN | NIGHT EDITION | TOPPER | SPORT HOOD",
@@ -1835,7 +2041,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 RAM 1500 Sport",
@@ -1853,7 +2061,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 RAM 1500 SPORT / BLACK APPEARANCE / PANO ROOF / POWER BOARDS / LEVEL 2 PKG / BUCKET SEATS",
@@ -1871,7 +2081,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Toyota Camry Sedan LE | FWD | CLOTH | BACK UP CAM | MECHANIC SPECIAL",
@@ -1889,7 +2101,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Toyota Sienna LE | CLOTH | BACK UP CAM | 8-PASSENGER | HEATED SE",
@@ -1907,7 +2121,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2019 Volkswagen Tiguan COMFORTLINE | AWD | MOONROOF | BACK UP CAM | NAV |",
@@ -1925,7 +2141,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 BMW X3 M PREMIUM PKG / CARBON FIBRE TRIM / 1 OWNER NO ACCIDENTS",
@@ -1943,7 +2161,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 BMW X5 M50I | MOONROOF | 360 CAMERA | CARPLAY | HEATED &",
@@ -1961,7 +2181,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Cadillac Escalade PLATINUM / SPORT EDITION / ASSIST & AWARENESS PKG / REAR DVD",
@@ -1979,7 +2201,9 @@
       "year": 2020,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Chevrolet Silverado 1500 LT - 5.3L REMOTE START - HEATED SEATS - HEATED WHEEL",
@@ -1997,7 +2221,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Chevrolet Silverado 3500 LT / DURAMAX / Z71 OFF ROAD / NO ACCIDENTS / LOW KMS",
@@ -2015,7 +2241,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Chevrolet Silverado 3500 LT / CONVENIENCE PACKAGE / 6.6L DURAMAX",
@@ -2033,7 +2261,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Chevrolet Silverado 3500 LTZ | 6.6L DURAMAX | STD BOX | LTZ PLUS PKG | CONV PKG II | GOOSENECK + 5TH WHEEL PREP",
@@ -2051,7 +2281,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Dodge Grand Caravan Passenger Van PREMIUM PLUS | V6 | STOW & GO",
@@ -2069,7 +2301,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford EcoSport SE",
@@ -2086,7 +2320,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford Edge SEL | AWD | BACK UP CAM | REMOTE START | HEATED SE",
@@ -2104,7 +2340,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford Escape SE / AWD / 1 OWNER NO ACCIDENTS",
@@ -2122,7 +2360,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford Expedition Max PLATINUM MAX / PANO ROOF / 2ND ROW CAPTAINS /",
@@ -2140,7 +2380,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford F 150 ",
@@ -2157,7 +2399,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F 150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford F 150 XLT 301A SPORT / 3.5L ECO / BUCKET SEATS W CONSOLE / NO ACCIDENTS",
@@ -2174,7 +2418,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F 150 XLT 301A SPORT / 3.5L ECO / BUCKET SEATS W CONSOLE / NO ACCIDENTS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford F-350 Super Duty XLT | 6.2L V8 | LONG BOX | XLT VALUE PKG | CAMPER PKG",
@@ -2192,7 +2438,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Ford F-350 Super Duty XLT | 6.2L V8 | 613A | LONG BOX | XLT VALUE PKG | FX4 | CAMPER PKG",
@@ -2210,7 +2458,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 GMC Sierra 3500HD Denali | 6.6L DURAMAX | LONG BOX | DENALI ULTIMATE PKG | HD FRONT SPRING + CAMPER PKG",
@@ -2228,7 +2478,9 @@
       "year": 2020,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Honda Civic Coupe SPORT | SUNROOF | BACK UP CAM | REMOTE START |",
@@ -2246,7 +2498,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Hyundai Venue Preferred",
@@ -2264,7 +2518,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Jeep Gladiator Overland | 3.6L V6 | LEATHER | COLD WEATHER GRP | SAFETY TEC | NAV",
@@ -2282,7 +2538,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Jeep Grand Cherokee Altitude",
@@ -2300,7 +2558,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Jeep Grand Cherokee LIMITED - HEATED SEATS REMOTE START LEATHER",
@@ -2318,7 +2578,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Jeep Wrangler Sport S***MECHANIC SPECIAL***",
@@ -2336,7 +2598,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Land Rover Range Rover HSE",
@@ -2353,7 +2617,9 @@
       "year": 2020,
       "make": "Land",
       "model": "Rover Range Rover HSE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Mercedes-Benz GLE AMG GLE 53",
@@ -2371,7 +2637,9 @@
       "year": 2020,
       "make": "Mercedes-Benz",
       "model": "GLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Nissan Leaf Hatchback SV",
@@ -2386,7 +2654,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Leaf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Nissan Qashqai SV AWD / MOONROOF",
@@ -2404,7 +2674,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Nissan Rogue SV | AWD | MOONROOF | BACK UP CAM | REMOTE START |",
@@ -2422,7 +2694,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 RAM 2500 Big Horn",
@@ -2440,7 +2714,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Toyota RAV4 Hybrid Hybrid XLE",
@@ -2457,7 +2733,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "RAV4 Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2020 Toyota Tacoma SR5 - HEATED SEATS BACKUP CAM",
@@ -2474,7 +2752,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Audi Q5 PROGRESSIV",
@@ -2492,7 +2772,9 @@
       "year": 2021,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 RST",
@@ -2510,7 +2792,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 RST | 5.3L V8 | CONV PKG W BUCKETS | 20S | TRAILER BRAKE",
@@ -2528,7 +2812,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 RST - 6.2L LEATHER - HEATED SEATS - 22INCH RIMS",
@@ -2546,7 +2832,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Chevrolet Suburban LT- SUNROOF - NAV- REAR MEADIA",
@@ -2563,7 +2851,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Suburban",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Dodge Durango GT - HEATED SEATS SUNROOF",
@@ -2581,7 +2871,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Ford Escape Hybrid Titanium Hybrid",
@@ -2599,7 +2891,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Ford F 150 XLT 300A | TOW PKG | 3.5L ECOBOOST | 5.5' BED",
@@ -2616,7 +2910,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F 150 XLT 300A",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 GMC Sierra 1500 Elevation | 5.3L V8 | PREF PKG | X31 | CONV PKG | SUNROOF | TRAILER BRAKE",
@@ -2634,7 +2930,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 GMC Yukon SLE - 8 PASSENGER 22'S REMOTE START",
@@ -2652,7 +2950,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Hyundai Santa Fe ULTIMATE CALLIGRAPHY",
@@ -2670,7 +2970,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Grand Cherokee Limited X",
@@ -2688,7 +2990,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Wrangler Unlimited Sport Altitude",
@@ -2706,7 +3010,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Qashqai SV",
@@ -2724,7 +3030,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Qashqai S | AWD | BACK UP CAM | HEATED SEATS | CARPLAY |",
@@ -2742,7 +3050,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Qashqai SL | AWD | LEATHER | SUNROOF | 360 CAM | REMOTE ST",
@@ -2760,7 +3070,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Qashqai S",
@@ -2778,7 +3090,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Rogue SV | MOONROOF | BACK UP CAM | REMOTE START | HEATE",
@@ -2796,7 +3110,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Sentra Sedan S PLUS | BACK UP CAM | HEATED SEATS | CARPLAY |",
@@ -2814,7 +3130,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Nissan Versa S | FWD | CLOTH | BACK UP CAM |",
@@ -2832,7 +3150,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Toyota RAV4 LIMITED | LEATHER | SUNROOF | BACK UP CAM | REMOTE",
@@ -2850,7 +3170,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2021 Volkswagen Jetta Sedan HIGHLINE",
@@ -2868,7 +3190,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Audi Q5 PROGRESSIV | LEATHER | MOONROOF | BACK UP CAM | CA",
@@ -2886,7 +3210,9 @@
       "year": 2022,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Audi SQ5 Prestige",
@@ -2902,7 +3228,9 @@
       "year": 2022,
       "make": "Audi",
       "model": "SQ5 Prestige",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Buick Encore Preferred | 1.4L TURBO | AWD | CRUISE | BLUETOOTH | REAR CAM",
@@ -2920,7 +3248,9 @@
       "year": 2022,
       "make": "Buick",
       "model": "Encore",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Chevrolet Silverado 1500 LTD TRAILBOSS- HEATED SEATS HEATED WHEEL REMOTE START",
@@ -2937,7 +3267,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Silverado 1500 LTD TRAILBOSS- HEATED SEATS HEATED WHEEL REMOTE START",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Chevrolet Silverado 2500 LT",
@@ -2955,7 +3287,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Silverado 2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Chevrolet Trailblazer LT / CONFIDENCE PKG / 1 OWNER NO ACCIDENTS",
@@ -2973,7 +3307,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Trailblazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Dodge Durango R/T Plus",
@@ -2991,7 +3327,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford EcoSport SE",
@@ -3009,7 +3347,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford Edge SEL | AWD | MOONROOF | BACK UP CAM | REMOTE START",
@@ -3027,7 +3367,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford Escape SE | AWD | BACK UP CAM | REMOTE START | CARPLAY |",
@@ -3045,7 +3387,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford Escape SEL - 2.0 ECOBOOST NAVIGATION POWER LIFTGATE",
@@ -3063,7 +3407,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford Expedition XLT",
@@ -3081,7 +3427,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford F 150 XLT | 2.7L ECOBOOST | TOW PKG",
@@ -3098,7 +3446,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Ford F-350 Super Duty XLT",
@@ -3116,7 +3466,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 GMC Acadia DENALI / SUNROOF / LUXURY & TECH PKG / INFOTAINMNET & CONVENIENCE PKG",
@@ -3134,7 +3486,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 GMC Canyon AT4 - LEATHER - HEATED SEATS - HEATED WHEEL",
@@ -3152,7 +3506,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 GMC Sierra 1500 DENALI / 6.2L / POWER BOARDS / SUNROOF / NO ACCIDENTS",
@@ -3170,7 +3526,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 GMC Sierra 1500 SLE",
@@ -3188,7 +3546,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 GMC Sierra 1500 SLE / 2.7L",
@@ -3206,7 +3566,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Honda CR-V EX-L",
@@ -3223,7 +3585,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Hyundai Tucson ESSENTIAL / AWD",
@@ -3241,7 +3605,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Jeep Cherokee Trailhawk",
@@ -3259,7 +3625,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Jeep Compass Altitude | 2.4L I4 | 4X4 | HEATED SEATS + WHEEL | NAV | REMOTE START",
@@ -3277,7 +3645,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Kia Forte Sedan ",
@@ -3294,7 +3664,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Forte Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Lincoln Corsair RESERVE | MOONROOF | BACK UP CAM | REMOTE START \\",
@@ -3312,7 +3684,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Corsair",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Mercedes-Benz GLC GLC 300 | LUXURY SUV | PASSING INSPECTION",
@@ -3330,7 +3704,9 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "GLC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Frontier King Cab PRO-4X | KING CAB | SUNROOF | 360 CAM | REMOTE STA",
@@ -3348,7 +3724,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Rogue PLATINUM | LEATHER | BOSE AUDIO | 360 CAM | MOONRO",
@@ -3366,7 +3744,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Rogue S | AWD | BACK UP CAM | HEATED SEATS |",
@@ -3384,7 +3764,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Sentra Sedan SR | BACK UP CAM | SUNROOF | REMOTE START | CARPLA",
@@ -3402,7 +3784,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 RAM 1500 Sport",
@@ -3420,7 +3804,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 RAM 1500 SPORT | 5.7 HEMI | 12.0 DISPLAY | PERF. HOOD",
@@ -3437,7 +3823,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Toyota 4Runner TRAIL EDITION / NO ACCIDENTS / LOW KMS",
@@ -3455,7 +3843,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2022 Toyota Tundra Platinum",
@@ -3473,7 +3863,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 BMW 3 Series Sedan 330i XDRIVE / PREMIUM PKG / NO ACCIDENTS",
@@ -3491,7 +3883,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Buick Enclave AVENIR / TECH PKG / SUNROOF / 1 OWNER NO ACCIDENTS",
@@ -3509,7 +3903,9 @@
       "year": 2023,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Camaro Convertible LT1 / CONVERTIBLE / RS PKG / TECH PKG / DUAL EXHAUST / 6.2L",
@@ -3527,7 +3923,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Camaro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Malibu Sedan 1LT",
@@ -3545,7 +3943,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Malibu Sedan LT",
@@ -3562,7 +3962,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 RST | 6.2L V8 | TRUE NORTH ED PLUS | LEATHER PKG | SAFETY PKG | Z71 OFF-ROAD PKG | BUCKETS | 20S",
@@ -3580,7 +3982,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 ZR2 | 6.2L V8 | TECH PKG | SUNROOF | HUD | ADAPTIVE CRUISE",
@@ -3598,7 +4002,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 RST - 6.2L HEATED SEATS - HEATED WHEEL - LONGBOX",
@@ -3616,7 +4022,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Suburban LT- 3.0L DIESEL - LEATHER - CAPTAINS CHAIRS",
@@ -3634,7 +4042,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Suburban",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Chevrolet Tahoe LT",
@@ -3652,7 +4062,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Explorer XLT | AWD | BACK UP CAM | 3RD ROW SEATS | HEATED S",
@@ -3670,7 +4082,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F 150 XLT | 300A | 3.5L ECOBOOST",
@@ -3687,7 +4101,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F 150 XLT | 302A PKG | SPORT PKG | ECOBOOST",
@@ -3704,7 +4120,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F 150 LARIAT | LONG BOX | MAX TRAILER",
@@ -3720,7 +4138,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F 150 LARIAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F 150 XLT",
@@ -3737,7 +4157,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 XL",
@@ -3755,7 +4177,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 XL",
@@ -3773,7 +4197,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-350 Super Duty XLT - 7.3 V8 LONG BOX",
@@ -3791,7 +4217,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Acadia DENALI / ULTIMATE PACKAGE / PANO ROOF / 1 OWNER",
@@ -3809,7 +4237,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Acadia AT4 7 PASSENGER - LEATHER HEATED SEATS SUNROOF",
@@ -3826,7 +4256,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Sierra 1500 Elevation | 5.3L V8 | HEATED SEATS + WHEEL | TRAILER BRAKE | STARTER",
@@ -3844,7 +4276,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Sierra 1500 Denali",
@@ -3862,7 +4296,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Sierra 1500 Denali - 6.2 - LONG BOX - TECH PACKAGE",
@@ -3880,7 +4316,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Sierra 3500HD SLE | 6.6L V8 GAS | KODIAK PKG | 20S | X31 | GOOSENECK 5TH WHEEL PKG",
@@ -3898,7 +4336,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Yukon XL Denali | 3.0L DURAMAX | 22S | MAX TRAILERING | PANO ROOF | PWR BOARDS",
@@ -3916,7 +4356,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 GMC Yukon AT4",
@@ -3933,7 +4375,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Genesis G70 3.3T Sport",
@@ -3951,7 +4395,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Hyundai Elantra N N LINE ULTIMATE / SUNROOF",
@@ -3969,7 +4415,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe LUXURY & TECHNOLOGY PKG / REAR SEAT VIDEO / SUNROOF",
@@ -3987,7 +4435,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Jeep Grand Cherokee L SUMMIT / HIGH ALTITUDE PACKAGE / NO ACCIDENTS",
@@ -4005,7 +4455,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Jeep Grand Cherokee L Limited | 6 PASS | LOADED",
@@ -4023,7 +4475,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Jeep Grand Cherokee L Laredo",
@@ -4041,7 +4495,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Forte Sedan GT-Line",
@@ -4059,7 +4515,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Soul EX",
@@ -4077,7 +4535,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Soul EX | BACK UP CAM | CARPLAY | HEATED SEATS |",
@@ -4095,7 +4555,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Leaf Hatchback SV PLUS | FULL EV | 360 CAMERA | HEATED SEATS | CA",
@@ -4113,7 +4575,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Leaf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Qashqai SV | AWD | SUNROOF | BACK UP CAM | REMOTE START |",
@@ -4131,7 +4595,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Nissan Versa SR | BACK UP CAM | REMOTE START | CARPLAY |",
@@ -4149,7 +4615,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 RAM 1500 Classic SLT",
@@ -4167,7 +4635,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 RAM 1500 Classic SLT",
@@ -4185,7 +4655,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 RAM 1500 Classic Express",
@@ -4203,7 +4675,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 RAM 1500 Classic Express",
@@ -4221,7 +4695,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Subaru Forester",
@@ -4236,7 +4712,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2023 Toyota Tundra Limited Hybrid | 3.5L TWIN TURBO HYBRID | VENTED SEATS | PANO ROOF | ADAPTIVE CRUISE",
@@ -4254,7 +4732,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Audi Q4 e-tron Premium",
@@ -4271,7 +4751,9 @@
       "year": 2024,
       "make": "Audi",
       "model": "Q4 e-tron",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 BMW X3 XDRIVE30I | MOONROOF | REMOTE START | BACK UP CAM",
@@ -4289,7 +4771,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Buick Envision Sport Touring",
@@ -4307,7 +4791,9 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Cadillac XT4 SPORT / SUNROOF / COLD WEATHER PKG / 1 OWNER NO ACCIDENTS",
@@ -4325,7 +4811,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Cadillac XT4 PREMIUM LUXURY / ACTIVE SAFETY PKG / SUNROOF / COLD WEATHER PKG",
@@ -4343,7 +4831,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Cadillac XT4 SPORT | MOONROOF | BACK UP CAM | REMOTE START | CA",
@@ -4361,7 +4851,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Cadillac XT5 AWD Premium Luxury | 3.6L V6 | BOSE | HEATED LEATHER | NAV | PANO ROOF",
@@ -4379,7 +4871,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Colorado 4WD Z71 - LEATHER - SUNROOF - TONNEAU COVER",
@@ -4397,7 +4891,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Malibu Sedan 1LT | BACK UP CAM | CARPLAY  | REMOTE START | HEAT",
@@ -4415,7 +4911,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Malibu Sedan LT | HEATED SEATS | REMOTE START",
@@ -4432,7 +4930,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 LT | 5.3L | CREW CAB | Z71 OFF-ROAD | TRAILER PKG",
@@ -4450,7 +4950,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 RST / DIESEL / 1 OWNER NO ACCIDENTS",
@@ -4468,7 +4970,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 LT",
@@ -4486,7 +4990,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 RST | 3.0L DURAMAX | CONV PKG II | MAX TRAILERING PKG | LEATHER BUCKETS | 20S | SUNROOF",
@@ -4504,7 +5010,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 LT Trail Boss | 6.2L V8 | STD BOX | CONV PKG II | SAFETY PKG | LEATHER | SUNROOF",
@@ -4522,7 +5030,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 RST - 3.0L HEATED SEATS REMOTE START",
@@ -4540,7 +5050,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 LT Trail Boss - DIESEL - HEATED SEATS - HEATED WHEEL",
@@ -4558,7 +5070,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 LT Trail Boss",
@@ -4576,7 +5090,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 2500 LT",
@@ -4594,7 +5110,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Chevrolet Silverado 3500 HIGH COUNTRY / TECH PKG / SUNROOF / DIESEL / Z71 / NO ACCIDENTS",
@@ -4612,7 +5130,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Dodge Hornet GT",
@@ -4630,7 +5150,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Dodge Hornet R/T",
@@ -4648,7 +5170,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Dodge Hornet R/T",
@@ -4666,7 +5190,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport Big Bend",
@@ -4684,7 +5210,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport Big Bend | 1.5L ECOBOOST | HEATED SEATS | REMOTE START | SYNC 3",
@@ -4702,7 +5230,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport Outer Banks",
@@ -4720,7 +5250,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport Big Bend",
@@ -4738,7 +5270,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford E-Series Cutaway DRW 176 WB | 16' CUBE | 7.3L V8 | 4.56 | CRUISE | PWR GRP",
@@ -4755,7 +5289,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "E-Series Cutaway DRW 176 WB",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape Plug-in Hybrid PHEV",
@@ -4772,7 +5308,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape Plug-in Hybrid PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape Platinum | AWD | FULLY LOADED",
@@ -4790,7 +5328,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape PLATINUM | AWD | LEATHER | 360 CAM | REMOTE START",
@@ -4808,7 +5348,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Expedition XLT",
@@ -4826,7 +5368,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | SKID PLATES | BLK APPEARANCE | SHORT BOX | 3.5 ECOBOOST",
@@ -4843,7 +5387,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 LARIAT | 3.5L ECOBOOST | 501A | BLACK APP PKG | FX4 | TOW-HAUL PKG",
@@ -4860,7 +5406,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 LARIAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 301A | TOW PACKAGE | 3.5L ECOBOOST",
@@ -4877,7 +5425,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | BLACK APPEARANCE PACKAGE",
@@ -4894,7 +5444,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | TOW PACKAGE",
@@ -4911,7 +5463,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 3.5L ECOBOOST | 301A | 3.55 E-LOCKER | MOBILE OFFICE PKG | TOW-HAUL PKG",
@@ -4928,7 +5482,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | FX4 OFFROAD PACKAGE",
@@ -4945,7 +5501,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT",
@@ -4962,7 +5520,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | FX4 OFFROAD PACKAGE",
@@ -4979,7 +5539,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT 302A | POWERBOOST | BLACK APPEARANCE",
@@ -4996,7 +5558,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT 302A",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | 3.5L ECOBOOST | FX4 OFFROAD",
@@ -5013,7 +5577,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | FX4 OFFROAD | 3.5L ECOBOOST",
@@ -5030,7 +5596,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT | 302A | 3.5L ECOBOOST | FX4 OFFROAD PACKAGE",
@@ -5047,7 +5615,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT",
@@ -5064,7 +5634,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 LARIAT / 502A / 3.5 ECO / BLACK APPEARANCE / PANO ROOF / NO ACCIDENTS",
@@ -5081,7 +5653,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 LARIAT / 502A / 3.5 ECO / BLACK APPEARANCE / PANO ROOF / NO ACCIDENTS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT",
@@ -5098,7 +5672,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT",
@@ -5115,7 +5691,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F-150 TREMOR / 401A / 3.5L ECO / BLUECRUISE /",
@@ -5133,7 +5711,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 LARIAT | 3.5L ECOBOOST | 501A | BLACK APP PKG | 20S | PANO ROOF | BED UTILITY PKG",
@@ -5150,7 +5730,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 LARIAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT",
@@ -5167,7 +5749,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 KING RANCH / 3.5L ECO / FX4 / NO ACCIDENTS / 2 SETS OF WHEELS AND TIRES",
@@ -5184,7 +5768,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 KING RANCH / 3.5L ECO / FX4 / NO ACCIDENTS / 2 SETS OF WHEELS AND TIRES",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F 150 XLT / 302A / 360 Cam / 12 Screen / 2.7L Ecoboost",
@@ -5201,7 +5787,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F 150 XLT / 302A / 360 Cam / 12 Screen / 2.7L Ecoboost",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F-350 Super Duty PLATINUM / 6.7 HI OUTPUT DIESEL / TREMOR / PANO ROOF",
@@ -5219,7 +5807,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Mustang Fastback Dark Horse",
@@ -5237,7 +5827,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Transit T350",
@@ -5255,7 +5847,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 1500 DENALI / RESERVE PKG / TECH PKG / 6.2L /  ACTIVE EXHAUST",
@@ -5273,7 +5867,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 1500 SLE / PREFERREF PKG / CONVENIENCE PKG / 1 OWNER NO ACCIDENTS",
@@ -5291,7 +5887,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 1500 AT4 - DIESEL - LEATHER - HEATED SEATS",
@@ -5309,7 +5907,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 2500HD SLT | 6.6L DURAMAX | STD BOX | GOOSENECK + 5TH WHEEL PREP",
@@ -5327,7 +5927,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 3500HD Pro | 6.6L DURAMAX | DUALLY | LONG BOX | CONV PKG | GOOSENECK",
@@ -5345,7 +5947,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Sierra 3500HD Denali Ultimate",
@@ -5363,7 +5967,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Terrain AT4 | 1.5L I4 TURBO | PANO ROOF | HEATED SEATS + WHEEL | ADAPTIVE CRUISE",
@@ -5381,7 +5987,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Terrain SLE - HEATED SEATS - REMOTE START - BACKUP CAMERA",
@@ -5399,7 +6007,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Yukon XL SLE",
@@ -5417,7 +6027,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Yukon AT4 / PREMIUM PLUS PKG / 6.2L / TECH PKG /",
@@ -5435,7 +6047,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Elantra PREFERRED | FWD | CLOTH | BACK UP CAM | REMOTE STA",
@@ -5453,7 +6067,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Santa Fe XRT",
@@ -5469,7 +6085,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Santa Fe XRT",
@@ -5487,7 +6105,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Compass Altitude",
@@ -5505,7 +6125,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Grand Cherokee L Limited",
@@ -5523,7 +6145,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Grand Cherokee L LIMITED - HEATED SEATS REMOTE START LEATHER",
@@ -5541,7 +6165,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Grand Cherokee Altitude | SUNROOF | PREFERRED PKG",
@@ -5559,7 +6185,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Grand Cherokee Limited",
@@ -5577,7 +6205,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Wrangler 4xe Rubicon",
@@ -5595,7 +6225,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Wrangler JK Sport S",
@@ -5613,7 +6245,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Wrangler Willys",
@@ -5631,7 +6265,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Kia Carnival LX | 8 PASSENGER VAN | CLEAN CARFAX |",
@@ -5649,7 +6285,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Kia Seltos S",
@@ -5667,7 +6305,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Kia Soul EX",
@@ -5685,7 +6325,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Kia Sportage LX",
@@ -5703,7 +6345,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Kia Telluride X PRO / 7 PASSENGER / CAPTAIN CHAIRS / 1 OWNER NO ACCIDENTS",
@@ -5721,7 +6365,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Lincoln Nautilus Reserve",
@@ -5739,7 +6385,9 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Lincoln Nautilus Reserve",
@@ -5757,7 +6405,9 @@
       "year": 2024,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Mercedes-Benz GLB GLB 250",
@@ -5775,7 +6425,9 @@
       "year": 2024,
       "make": "Mercedes-Benz",
       "model": "GLB",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Ariya EVOLVE | 63KWH | AWD | MOONROOF | 360 CAMERA | FUL",
@@ -5793,7 +6445,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Ariya EVOLVE+ E-4ORCE AWD | 87KWH | 360 CAM | MOONROOF |",
@@ -5811,7 +6465,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Kicks SR",
@@ -5829,7 +6485,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Murano SV",
@@ -5845,7 +6503,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue PLATINUM | AWD | LEATHER | MOONROOF | 360 CAM | RE",
@@ -5863,7 +6523,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue SV | AWD | MOONROOF | BACK UP CAM | REMOTE START |",
@@ -5881,7 +6543,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -5899,7 +6563,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -5917,7 +6583,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue SL | AWD | MOONROOF | 360 CAM | REOMTE START |",
@@ -5935,7 +6603,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -5953,7 +6623,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue SV MOONROOF | AWD | BACK UP CAM | REMOTE START | C",
@@ -5971,7 +6643,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue SV MOONROOF / AWD / NO ACCIDENTS",
@@ -5989,7 +6663,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue SV MOONROOF | AWD | BACK UP CAM | REMOTE START | C",
@@ -6007,7 +6683,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -6025,7 +6703,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -6043,7 +6723,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -6061,7 +6743,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 RAM 2500 Tradesman",
@@ -6079,7 +6763,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Subaru Ascent CONVENIENCE | AWD | BACK UP CAM | HAIL SAVINGS | 8",
@@ -6097,7 +6783,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Toyota Corolla Hybrid Hybrid LE",
@@ -6115,7 +6803,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Toyota Corolla Sedan LE / NO ACCIDENTS",
@@ -6133,7 +6823,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Toyota RAV4 LE",
@@ -6151,7 +6843,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2024 Volkswagen Jetta Sedan Highline",
@@ -6169,7 +6863,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Audi Q3 PREM",
@@ -6187,7 +6883,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 BMW X1 xDrive28i | 2.0L I4 TURBO | AWD | PREM ESSENTIAL PKG | PANO ROOF | NAV",
@@ -6205,7 +6903,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 BMW X1 xDrive28i",
@@ -6223,7 +6923,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 BMW X2 XDRIVE28I | MOONROOF | BACK UP CAM | CARPLAY | HEA",
@@ -6241,7 +6943,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Buick Encore GX Preferred | 1.3L TURBO | FWD | HEATED SEATS + WHEEL | PWR GATE",
@@ -6259,7 +6963,9 @@
       "year": 2025,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Cadillac Escalade IQ SPORT 1 / NO LUXURY TAX / BEST PRICE & VALUE IN CANADA",
@@ -6277,7 +6983,9 @@
       "year": 2025,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Cadillac Lyriq SPORT / SPORT 3 / PANO ROOF / AWD / DRIVER ASSIST PKG / NO ACCIDENTS",
@@ -6295,7 +7003,9 @@
       "year": 2025,
       "make": "Cadillac",
       "model": "Lyriq",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Colorado ZR2 - LEATHER - HEATED SEATS - HEATED WHEEL",
@@ -6313,7 +7023,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Equinox EV RS / AWD / CONVENIENCE PKG / ACTIVE SAFETY PKG / 2RS",
@@ -6331,7 +7043,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Express Passenger LS / 12 PASSENGER / 6.6L V8 / 1 OWNER NO ACCIDENTS",
@@ -6349,7 +7063,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Express",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Malibu Sedan 1LT",
@@ -6367,7 +7083,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Malibu Sedan LT",
@@ -6385,7 +7103,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 Custom Trail Boss",
@@ -6403,7 +7123,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 High Country",
@@ -6421,7 +7143,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 Custom Trail Boss",
@@ -6439,7 +7163,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT | 2.7L TURBOMAX | STD BOX | HEATED SEATS + WHEEL | STARTER",
@@ -6457,7 +7183,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT TRAIL BOSS / 6.2L / SUNROOF / LEATHER BUCKET SEATS / ACTIVE EXHAUST",
@@ -6475,7 +7203,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 CUSTOM TRAIL BOSS / 5.3L / Z71 OFF ROAD W 2 LIFT",
@@ -6493,7 +7223,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 Custom Trail Boss | 3.0L DURAMAX | LEATHER | BRUSH BAR",
@@ -6511,7 +7243,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 RST",
@@ -6529,7 +7263,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ZR2 / TECH PKG / SUNROOF / NO ACCIDENTS",
@@ -6547,7 +7283,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 RST / DIESEL / BUCKET SEATS / Z71 / 1 OWNER NO ACCIDENTS",
@@ -6565,7 +7303,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT TRAIL BOSS / DIESEL / LEATHER BUCKET SEATS / SUNROOF / Z71",
@@ -6583,7 +7323,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 RST / Z71 / 5.3L / CONVENIENCE PKG / NO ACCIDENTS",
@@ -6601,7 +7343,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT TRAIL BOSS / PREMIUM PKG / 6.2 L /  LEATHER BUCKET SEATS",
@@ -6619,7 +7363,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 LT | 3.0L DURAMAX | LEATHER PKG | SAFETY PKG | CONV PKG 2",
@@ -6637,7 +7383,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 Custom Trail Boss",
@@ -6655,7 +7403,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 2500 LT",
@@ -6673,7 +7423,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 3500 LTZ - MIDNIGHT PACKAGE",
@@ -6691,7 +7443,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Traverse RS | 2.5L TURBO | SUPER CRUISE | 360 CAM | 22S | VENTED SEATS",
@@ -6709,7 +7463,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Traverse RS | BLK OUT PKG | LEATHER | 7 PASS",
@@ -6727,7 +7483,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
@@ -6745,7 +7503,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
@@ -6763,7 +7523,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT",
@@ -6781,7 +7543,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT",
@@ -6799,7 +7563,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT",
@@ -6817,7 +7583,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
@@ -6835,7 +7603,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan LX",
@@ -6853,7 +7623,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
@@ -6871,7 +7643,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Pacifica Select",
@@ -6889,7 +7663,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Pacifica Limited",
@@ -6907,7 +7683,9 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport BIG BEND | AWD | BACK UP CAM | REMOTE START | CARP",
@@ -6925,7 +7703,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Escape Platinum",
@@ -6943,7 +7723,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Escape Active",
@@ -6961,7 +7743,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Expedition Max Platinum Max | CPTN CHAIR | DRIVER PKG | 22 RIMS",
@@ -6979,7 +7763,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Explorer Active | UPGRADED LEATHER SEATS",
@@ -6997,7 +7783,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | FX4 OFF ROAD | 3.5 ECO | SHORT BOX",
@@ -7014,7 +7802,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 302A | FX4 OFF ROAD | 3.5 ECOBOOST",
@@ -7031,7 +7821,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 302A | FX4 OFFROAD PACKAGE",
@@ -7048,7 +7840,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 302A | FX4 OFFROAD",
@@ -7065,7 +7859,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 301A | 3.5L ECOBOOST",
@@ -7082,7 +7878,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT 302A | FX4 OFFROAD | SHORTBOX | 3.5L ECOBOOST",
@@ -7099,7 +7897,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT 302A",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT 4WD",
@@ -7116,7 +7916,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT 4WD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT 302A | FX4 PACKAGE | 3.5L ECOBOOST",
@@ -7133,7 +7935,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT 302A",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 301A | 5.0L",
@@ -7150,7 +7954,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT | 302A | FX4 OFFROAD | 3.5L ECOBOOST",
@@ -7167,7 +7973,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT",
@@ -7184,7 +7992,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 LARIAT",
@@ -7201,7 +8011,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 LARIAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 LARIAT",
@@ -7218,7 +8030,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 LARIAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F 150 XLT",
@@ -7235,7 +8049,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F 150 XLT",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford F-350 Super Duty XLT",
@@ -7253,7 +8069,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Ranger XLT",
@@ -7271,7 +8089,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Transit Cargo Van ",
@@ -7289,7 +8109,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Transit Cargo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Acadia ELEVATION / BLACK EDITION / ASSISTED DRIVING & CONFIDENCE PKGS / 1 OWNER NO ACCIDENTS",
@@ -7307,7 +8129,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Savana Passenger LS 3500 / 12 PASSENGER / EXTENDED WHEEL BASE",
@@ -7325,7 +8149,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Savana",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 AT4",
@@ -7343,7 +8169,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 AT4",
@@ -7361,7 +8189,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 Denali",
@@ -7379,7 +8209,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 Denali",
@@ -7397,7 +8229,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 SLT | DIESEL | RUNNING BOARDS",
@@ -7415,7 +8249,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 AT4 / TECHNOLOGY PACKAGE / SUNROOF / ACTIVE EXHAUST",
@@ -7433,7 +8269,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 AT4 | DIESEL | TECH PKG | SUNROOF |",
@@ -7451,7 +8289,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 ELEVATION / 5.3L / NO ACCIDENTS",
@@ -7469,7 +8309,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 Denali | 3.0L DURAMAX | DENALI RESERVE | HUD | SUNROOF | 22S",
@@ -7487,7 +8329,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 AT4 / TECH PKG / PREMIUM PKG / SUNROOF / 3.0L DIESEL / NO ACCIDENTS",
@@ -7505,7 +8349,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 Denali | 6.2L V8 | DENALI RESERVE PKG | BLACK 22S | HUD | SUNROOF",
@@ -7523,7 +8369,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 SLE | 5.3L V8 | PREF PKG | SAFETY PLUS PKG | MAX TRAILERING PKG",
@@ -7541,7 +8389,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 Denali - DIESEL - LEATHER - HEATED/COOLED SEATS - REMOTE START",
@@ -7558,7 +8408,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Yukon XL Denali",
@@ -7576,7 +8428,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Yukon XL Denali",
@@ -7594,7 +8448,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Yukon Elevation | 5.3L V8 | SUPER CRUISE + TRAILERING PKG | MAX TRAILERING PKG",
@@ -7612,7 +8468,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis G70 2.5T Prestige",
@@ -7630,7 +8488,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis G70 ",
@@ -7647,7 +8507,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis G70 3.3T Sport",
@@ -7665,7 +8527,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis G70 ",
@@ -7682,7 +8546,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis G70 ",
@@ -7699,7 +8565,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis GV80 3.5T Prestige",
@@ -7717,7 +8585,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Genesis GV80 3.5T Prestige",
@@ -7735,7 +8605,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Honda Passport BLACK EDITION / 1 OWNER NO ACCIDENTS",
@@ -7753,7 +8625,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra N N LINE ULTIMATE | SUNROOF | BACK UP CAM | REMOTE S",
@@ -7771,7 +8645,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra Preferred Tech Package | 2.0L I4 | SUNROOF | NAV | HEATED SEATS + WHEEL | AMBIENT LIGHTING",
@@ -7789,7 +8665,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED WITH SUNROOF & TECHNOLOGY PKG / NO ACCIDENTS",
@@ -7807,7 +8685,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED / TECH PACKAGE / SUNROOF / NO ACCIDENTS",
@@ -7825,7 +8705,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED / TECHNOLOGY PKG / SUNROOF / NO ACCIDENTS",
@@ -7843,7 +8725,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra PREFERRED / TECHNOLOGY PKG / SUNROOF / NO ACCIDENTS",
@@ -7861,7 +8745,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra SELSPORT",
@@ -7879,7 +8765,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra LUXURY / SUNROOF / LEATHER SEATS / NO ACCIDENTS",
@@ -7897,7 +8785,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Elantra LUXURY / 1 OWNER NO ACCIDENTS",
@@ -7915,7 +8805,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Kona Electric PREFERRED | TREND PKG | FULLY EV | LEATHER | MOONR",
@@ -7933,7 +8825,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Kona Preferred",
@@ -7951,7 +8845,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Santa Cruz Preferred | COMPACT TRUCK",
@@ -7969,7 +8865,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Santa Fe Luxury | 2.5L I4 TURBO | VENTED SEATS | SUNROOF | 360 CAMERA | NAV",
@@ -7987,7 +8885,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Tucson Preferred",
@@ -8005,7 +8905,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Venue Preferred",
@@ -8023,7 +8925,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Venue PREFERRED | BACK UP CAM | REMOTE START | HEATED SE",
@@ -8041,7 +8945,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Hyundai Venue PREFERRED | FUEL EFFICIENT",
@@ -8059,7 +8965,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Compass Latitude",
@@ -8077,7 +8985,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee L Laredo | Demo Special",
@@ -8095,7 +9005,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee L Laredo | Demo Special",
@@ -8113,7 +9025,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee Limited | Demo Special",
@@ -8131,7 +9045,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee Laredo",
@@ -8149,7 +9065,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee Laredo | Demo Special",
@@ -8167,7 +9085,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Grand Cherokee Altitude | DEMO SPECIAL",
@@ -8185,7 +9105,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Rubicon | Demo Special",
@@ -8203,7 +9125,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sahara",
@@ -8221,7 +9145,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sport",
@@ -8239,7 +9165,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sahara | DEMO SPECIAL",
@@ -8257,7 +9185,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sahara | 3.6L V6 | AUTO | HEATED SEATS + WHEEL | BODY-COLOUR HARDTOP",
@@ -8275,7 +9205,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sahara | Demo Special",
@@ -8293,7 +9225,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Jeep Wrangler Sahara | Demo Special",
@@ -8311,7 +9245,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Kia K4 EX | 2.0L I4 | HEATED SEATS + WHEEL | BLIND SPOT | WIRELESS CHARGER | 17S",
@@ -8329,7 +9265,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Lexus NX Hybrid NX 350h",
@@ -8347,7 +9285,9 @@
       "year": 2025,
       "make": "Lexus",
       "model": "NX Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Mazda Mazda3 Sport 2.5 S Carbon Edition",
@@ -8365,7 +9305,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
@@ -8382,7 +9324,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Armada PRO-4X | AIR SUSPENSION | MOONROOF | KLIPSCH AUDIO",
@@ -8400,7 +9344,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks Play SV",
@@ -8418,7 +9364,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks Play SV | BACK UP CAM | REMOTE START | HEATED SEATS & S",
@@ -8436,7 +9384,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV | AWD | BACK UP CAM | CARPLAY | REMOTE START |",
@@ -8454,7 +9404,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks SV | AWD | BACK UP CAM | CARPLAY | REMOTE START |",
@@ -8472,7 +9424,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Pathfinder PLATINUM | MOONROOF | 360 CAM | 3RD ROW SEATS | CA",
@@ -8490,7 +9444,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SL | LEATHER | MOONROOF | 360 CAM | REMOTE START |",
@@ -8508,7 +9464,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV / AWD / MOONROOF / NO ACCIDENTS",
@@ -8526,7 +9484,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV / AWD / MONROOF / NO ACCIDENTS",
@@ -8544,7 +9504,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV / MOONROOF / NO ACCIDENTS",
@@ -8562,7 +9524,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue S | AWD | BACK UP CAM | REMOTE START | HEATED SEAT",
@@ -8580,7 +9544,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Rogue SV",
@@ -8598,7 +9564,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Sentra Sedan SR",
@@ -8614,7 +9582,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Versa SV",
@@ -8632,7 +9602,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Versa SV / NO ACCIDENTS",
@@ -8650,7 +9622,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 1500 Tungsten",
@@ -8668,7 +9642,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 1500 Rebel",
@@ -8686,7 +9662,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 1500 Big Horn | Demo Special",
@@ -8704,7 +9682,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 1500 Sport | Demo Special",
@@ -8722,7 +9702,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 1500 Rebel",
@@ -8740,7 +9722,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 RAM 3500 Laramie",
@@ -8758,7 +9742,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Toyota Tacoma SR5 | CREW CAB | 4X4 | BACK UP CAM | CARPLAY |",
@@ -8776,7 +9762,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Toyota Tacoma ",
@@ -8793,7 +9781,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Volkswagen Jetta Sedan Comfortline",
@@ -8811,7 +9801,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Volkswagen Taos COMFORTLINE BLACK EDITION / PANO ROOF / AWD / LEATHER SEATS",
@@ -8829,7 +9821,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2025 Volkswagen Taos Comfortline Black Edition | 1.5L TSI | PANO ROOF | HEATED SEATS + WHEEL | ADAPTIVE CRUISE",
@@ -8847,7 +9841,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Cadillac Escalade 4WD Platinum Sport",
@@ -8865,7 +9861,9 @@
       "year": 2026,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox LT / 2LT / SAFETY AND TECHNOLOGY PKG / 1 OWNER NO ACCIDENTS",
@@ -8883,7 +9881,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox AWD LT | 1.5L TURBO | PANO ROOF | 19S | HEATED SEATS + WHEEL",
@@ -8901,7 +9901,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox LT | AWD | REMOTE START | HEATED SEATS",
@@ -8919,7 +9921,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox AWD LT",
@@ -8937,7 +9941,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 LT | 5.3L V8 | HEATED SEATS + WHEEL | PROTECTION PKG | LINERS",
@@ -8955,7 +9961,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 LT TRAIL BOSS / PREMIUM PKG / LEATHER BUCKET SEATS / SUNROOF",
@@ -8973,7 +9981,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Traverse LT",
@@ -8991,7 +10001,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Traverse LT",
@@ -9009,7 +10021,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Traverse Z71",
@@ -9027,7 +10041,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Chrysler Pacifica Limited | HAIL SPECIAL | FULLY LOADED",
@@ -9045,7 +10061,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Dodge Durango GT | Demo Special",
@@ -9063,7 +10081,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Dodge Durango GT | Demo Special",
@@ -9081,7 +10101,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks | 4X4 | HEATED SEATS & HEATED WHEEL",
@@ -9099,7 +10121,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 AT4 / DURAMAX / PREFERRED PKG / NO ACCIDENTS",
@@ -9117,7 +10141,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 Denali Ultimate | 6.2L V8 | SUPER CRUISE | SUNROOF | MASSAGE SEATS",
@@ -9135,7 +10161,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 DENALI / DURAMAX / TECH PKG / SUNROOF /",
@@ -9153,7 +10181,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 Denali | 3.0L DURAMAX | TECH PKG | SUPER CRUISE | SUNROOF | MULTIPRO TAILGATE",
@@ -9171,7 +10201,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 DENALI / DURAMAX / RESERVE PKG / SUNROOF / POWER BOARDS / TECH",
@@ -9189,7 +10221,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 ELEVATION / X31 OFF ROAD / PREF PACKAGE / NO ACCIDENTS",
@@ -9207,7 +10241,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 ELEVATION / 5.3L / X31 OFF ROAD / BUCKET SEATS / NO ACCIDENTS",
@@ -9225,7 +10261,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation",
@@ -9243,7 +10281,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation",
@@ -9261,7 +10301,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 1500 Denali",
@@ -9279,7 +10321,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 2500HD Denali | 6.6L DURAMAX | RESERVE PKG | PWR STEPS | BLACK BADGES",
@@ -9297,7 +10341,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 2500HD Denali | 6.6L DURAMAX | DENALI RESERVE | PWR STEPS | BLACK 20S",
@@ -9315,7 +10361,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 2500HD Denali | 6.6L DURAMAX | RESERVE | SUNROOF | HUD | VENTED SEATS",
@@ -9333,7 +10381,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 2500HD AT4 | 6.6L DURAMAX | AT4 PREM PLUS PKG | PWR BOARDS | X31",
@@ -9351,7 +10401,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLT / 6.6L DURAMAX / LEATHER SEATS / 5TH WHEEL PREP",
@@ -9369,7 +10421,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Sierra 3500HD Denali Ultimate | 6.6L DURAMAX | GOOSENECK + 5TH WHEEL PREP",
@@ -9387,7 +10441,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain AWD Elevation",
@@ -9404,7 +10460,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain AWD Elevation | 1.5L TURBO | PREM PKG | ADAPTIVE CRUISE | PWR LIFTGATE",
@@ -9422,7 +10480,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain AWD Elevation | 1.5L TURBO | PREM PKG | ADAPTIVE CRUISE | HEATED SEATS + WHEEL",
@@ -9440,7 +10500,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain Elevation | AWD | TURBO | DRIVER ASSIST PKG",
@@ -9458,7 +10520,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain DENALI / CONVENIENCE PKG 2 & 3 / TECH PKG / 1 OWNER NO ACCIDENTS",
@@ -9476,7 +10540,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain AWD Denali | 1.5L TURBO I4 | PANO ROOF | VENTED SEATS | HEATED R SEATS + WHEEL",
@@ -9494,7 +10560,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -9511,7 +10579,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -9528,7 +10598,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -9545,7 +10617,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -9562,7 +10636,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Genesis GV80 Coupe 3.5T e-SC",
@@ -9580,7 +10656,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Kona SELC",
@@ -9598,7 +10676,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Kona Preferred",
@@ -9616,7 +10696,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Palisade PREFERRED | 8 PASS. | AWD V6 | CLEAN CARFAX",
@@ -9634,7 +10716,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred",
@@ -9652,7 +10736,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Tucson Preferred",
@@ -9670,7 +10756,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Cherokee Limited",
@@ -9688,7 +10776,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Compass North | Demo Special",
@@ -9706,7 +10796,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Gladiator Sport S | Demo Special",
@@ -9724,7 +10816,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Kia Sportage LX",
@@ -9742,7 +10836,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Armada PLATINUM | MOONROOF | 360 CAM | 8-PASSENGER | REMO",
@@ -9760,7 +10856,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S | BACK UP CAM | HEATED SEATS | CARPLAY |",
@@ -9778,7 +10876,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks S | BACK UP CAM | HEATED SEATS | CARPLAY |",
@@ -9796,7 +10896,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV | BACK UP CAM | REMOTE START | HEATED SEATS & S",
@@ -9814,7 +10916,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV | BACK UP CAM | REMOTE START | HEATED SEAT & ST",
@@ -9832,7 +10936,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Kicks SV | BACK UP CAM | REMOTE START | HEATED SEAT & ST",
@@ -9850,7 +10956,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek | 1.5L TURBO | HEATED SEATS + WHEEL | 360 CAM | STARTER",
@@ -9868,7 +10976,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof | 1.5L TURBO | HEATED SEATS + WHEEL | ADAPTIVE CRUISE",
@@ -9886,7 +10996,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof | 1.5L TURBO | HEATED SEATS + WHEEL | ADAPTIVE CRUISE",
@@ -9904,7 +11016,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -9921,7 +11035,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Rebel",
@@ -9939,7 +11055,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -9957,7 +11075,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Big Horn | Demo Special",
@@ -9975,7 +11095,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -9993,7 +11115,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Big Horn | Demo Special",
@@ -10011,7 +11135,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10027,7 +11153,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Express",
@@ -10045,7 +11173,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10061,7 +11191,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10077,7 +11209,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10093,7 +11227,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10109,7 +11245,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10125,7 +11263,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10141,7 +11281,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10157,7 +11299,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 1500 Sport | Demo Special",
@@ -10173,7 +11317,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 3500 Limited | 6.7L CUMMINS HO | NIGHT ED | LEVEL 1 | SUNROOF | 5TH WHEEL | TOW TECH PLS GRP | AUTO LVL",
@@ -10191,7 +11337,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 3500 Laramie | Demo Special",
@@ -10209,7 +11357,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 RAM 3500 Limited | Demo Special",
@@ -10227,7 +11377,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Toyota Corolla Cross LE | HEATED SEATS | HEATED STEERING WHEEL",
@@ -10245,7 +11397,9 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Edition | 1.5L TSI | PANO ROOF | HEATED SEATS + WHEEL | ADAPTIVE CRUISE",
@@ -10263,7 +11417,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Volkswagen Taos COMFORTLINE | 4 MOTION AWD",
@@ -10281,7 +11437,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline",
@@ -10299,7 +11457,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Calgary",
+      "province": "AB"
     }
   ]
 }
