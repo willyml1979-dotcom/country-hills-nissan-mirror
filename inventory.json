@@ -1,7 +1,7 @@
 {
   "dealership": "Country Hills Nissan",
-  "generated_at": "2026-11-18T04:55:56",
-  "vehicle_count": 533,
+  "generated_at": "2026-11-18T13:51:39",
+  "vehicle_count": 524,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -251,6 +251,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 Ford F-150 FX4 / 402A / 3.5L ECO / LONGBOX / MAX TOW / LUXURY PKG / NO ACCIDENTS",
+      "vin": "1FTFW1ET3EKG00038",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/14d2de712e4d.html",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 23900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Jeep Wrangler SPORT / HARD TOP / POWER & CONNECTIVITY PKG / BLACK APPEARANCE /",
       "vin": "1C4BJWDG3EL243551",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/458dbb6497b5.html",
@@ -325,17 +336,6 @@
       "model": "Grand Cherokee",
       "condition": "used",
       "price": 19999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Kia Forte Sedan EX",
-      "vin": "KNAFX4A86F5258694",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f86c34aa803d.html",
-      "year": 2015,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 11169.0,
       "price_currency": "CAD"
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "2017 Mazda CX-5 GT",
       "vin": "JM3KFBDL3H0144278",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/70be3158c4dd.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/761b06778a9c.html",
       "year": 2017,
       "make": "Mazda",
       "model": "CX-5",
@@ -848,6 +848,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Toyota RAV4 LE / AWD / NO ACCIDENTS",
+      "vin": "2T3BFREV4JW819588",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/1f0ae45f9be3.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 23900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Volkswagen Tiguan HIGHLINE | AWD | LEATHER | MOONROOF | MECHANIC SPECIAL |",
       "vin": "3VV4B7AX6JM004800",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/752862762070.html",
@@ -944,6 +955,17 @@
       "model": "Terrain",
       "condition": "used",
       "price": 20900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Jeep Cherokee SPORT / NO ACCIDENTS",
+      "vin": "1C4PJMAB8KD152803",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f7eebb1f0bd4.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 17500.0,
       "price_currency": "CAD"
     },
     {
@@ -1200,7 +1222,7 @@
     {
       "name": "2020 Hyundai Santa Fe Ultimate",
       "vin": "5NMS5CAAXLH149068",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/6704a06933df.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f24c568761b0.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
@@ -1526,28 +1548,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 GMC Sierra 1500 Elevation - DIESEL - LEATHER - HEATED SEATS - HEATED WHEEL - REMOTE START",
-      "vin": "1GTU9CET4MZ299036",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/60697dd8aa79.html",
-      "year": 2021,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 39888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 GMC Yukon SLE - 8 PASSENGER 22'S REMOTE START",
-      "vin": "1GKS2AKD7MR446712",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/e3c79c027e39.html",
-      "year": 2021,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "used",
-      "price": 46994.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Honda Pilot Touring 7-Passenger | 3.5L V6 | PANO ROOF | VENTED SEATS | HEATED 2ND ROW",
       "vin": "5FNYF6H6XMB503667",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/7979cb56bfa1.html",
@@ -1559,9 +1559,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Hyundai IONIQ Hybrid ULTIMATE / LOADED ALL OPTIONS / NO ACCIDENTS",
+      "vin": "KMHC05LC0MU251031",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/404ca1eead60.html",
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "IONIQ Hybrid",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Hyundai Palisade Ultimate Calligraphy",
       "vin": "KM8R5DHE1MU308577",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/9b4901fbb963.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/56c72ee60826.html",
       "year": 2021,
       "make": "Hyundai",
       "model": "Palisade",
@@ -1675,17 +1686,6 @@
       "model": "1500 Classic",
       "condition": "used",
       "price": 32900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 Classic Quad Cab WARLOCK / 3.6L / LUXURY GROUP / BUCKET SEATS / SPORT HOOD",
-      "vin": "1C6RR7GG0MS529202",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/51609230a9cc.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 19900.0,
       "price_currency": "CAD"
     },
     {
@@ -1878,23 +1878,12 @@
     {
       "name": "2022 Hyundai Santa Fe Ultimate Calligraphy",
       "vin": "5NMS5DAL3NH382123",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/69cc3200585d.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/408d466fe788.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
       "price": 24418.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Venue PREFERRED / NO ACCIDENTS",
-      "vin": "KMHRC8A31NU182793",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/02460da08c48.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 17600.0,
       "price_currency": "CAD"
     },
     {
@@ -2043,7 +2032,7 @@
     {
       "name": "2023 Buick Envision Avenir",
       "vin": "LRBFZSR4XPD014149",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/634d832cf60f.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/d52922da1e84.html",
       "year": 2023,
       "make": "Buick",
       "model": "Envision",
@@ -2135,17 +2124,6 @@
       "model": "Suburban",
       "condition": "used",
       "price": 67996.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Tahoe LT",
-      "vin": "1GNSKNKD5PR416316",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f1523f5892bc.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "condition": "used",
-      "price": 58886.0,
       "price_currency": "CAD"
     },
     {
@@ -2314,15 +2292,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 GMC Sierra 3500HD SLE",
-      "vin": "1GT49TE72PF227261",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/c33ef00fb8da.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "used"
-    },
-    {
       "name": "2023 GMC Sierra 3500HD SLE | 6.6L DURAMAX | LONG BOX | CONV PKG | X31 | TRAILERING MIRRORS",
       "vin": "1GT49TEY6PF192989",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/df4ebf23d549.html",
@@ -2424,7 +2393,7 @@
     {
       "name": "2023 Hyundai Santa Fe Ultimate Calligraphy",
       "vin": "5NMS5DAL8PH483760",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/9caeab506c69.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/eb3c87035419.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
@@ -3287,17 +3256,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-350 Super Duty XLT",
-      "vin": "1FT8W3BN3REC66608",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/fec6c734741b.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "used",
-      "price": 59990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford F-350 Super Duty LARIAT - LIFTED",
       "vin": "1FT8W3BT8REF39704",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/5483d022ed28.html",
@@ -3525,6 +3483,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Honda Civic Sedan EX",
+      "vin": "2HGFE2F31RH100174",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f9b7ede21bb7.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 25990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Elantra PREFERRED / NO ACCIDENTS",
       "vin": "KMHLM4DG6RU850121",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/8cdd8b1e8600.html",
@@ -3633,6 +3602,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Lincoln Nautilus Reserve",
+      "vin": "5LMPJ8KA6RJ824374",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/a2235c79e9a4.html",
+      "year": 2024,
+      "make": "Lincoln",
+      "model": "Nautilus",
+      "condition": "used",
+      "price": 54990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 MINI Convertible Cooper - ROADSTER - CONVERTIBLE - LEATHER - HEATED SEATS",
       "vin": "WMW23DL05R3R51712",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/6d4ced3bdea6.html",
@@ -3663,17 +3643,6 @@
       "model": "Outlander",
       "condition": "used",
       "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander ES",
-      "vin": "JA4J4UA82RZ633719",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/1fc95e15aade.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
@@ -3913,17 +3882,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Corolla LE",
-      "vin": "5YFB4MDE5RP138534",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/5e83020934da.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 25688.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Toyota RAV4 XLE",
       "vin": "2T3R1RFV9RC470808",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/948f5f12fae8.html",
@@ -4087,17 +4045,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Silverado 1500 ZR2 / TECH PKG / SUNROOF / NO ACCIDENTS / MANAGERS SPECIAL",
-      "vin": "3GCUKHE86SG167986",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/fb02af970b1c.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 66900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Chevrolet Silverado 1500 RST / DIESEL / BUCKET SEATS / Z71 / 1 OWNER NO ACCIDENTS",
       "vin": "3GCUKEE81SG273275",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/839d10c3f6a3.html",
@@ -4138,7 +4085,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 63900.0,
+      "price": 60500.0,
       "price_currency": "CAD"
     },
     {
@@ -4171,7 +4118,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500",
       "condition": "used",
-      "price": 86595.0,
+      "price": 82884.0,
       "price_currency": "CAD"
     },
     {
@@ -4208,47 +4155,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
+      "name": "2025 Chrysler Grand Caravan SXT | 3.6L V6 | HEATED SEATS  + WHEEL | PWR DOORS + GATE",
       "vin": "2C4RC1ZG6SR588712",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/d2db6fced170.html",
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 35995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Grand Caravan SXT | Demo Special",
+      "name": "2025 Chrysler Grand Caravan SXT | 3.6L V6 | HEATED SEATS + WHEEL | PWR DOORS + GATE",
       "vin": "2C4RC1ZG0SR605343",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/9f05e6987817.html",
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 42998.0,
+      "price": 38495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Grand Caravan SXT",
+      "name": "2025 Chrysler Grand Caravan SXT | 3.6L V6 | HEATED SEATS + WHEEL | PWR DOORS + GATE",
       "vin": "2C4RC1ZGXSR605351",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/f93cc5e901d8.html",
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 42995.0,
+      "price": 42495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Grand Caravan SXT",
+      "name": "2025 Chrysler Grand Caravan SXT | 3.6L V6 | HEATED SEATS + WHEEL | PWR DOORS + GATE",
       "vin": "2C4RC1ZG9SR542856",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/fae4a62ae3bf.html",
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 39998.0,
+      "price": 37495.0,
       "price_currency": "CAD"
     },
     {
@@ -4270,7 +4217,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 44887.0,
+      "price": 42500.0,
       "price_currency": "CAD"
     },
     {
@@ -4290,7 +4237,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 40755.0,
+      "price": 39422.0,
       "price_currency": "CAD"
     },
     {
@@ -4312,7 +4259,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 27255.0,
+      "price": 25922.0,
       "price_currency": "CAD"
     },
     {
@@ -4334,7 +4281,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 46887.0,
+      "price": 46886.0,
       "price_currency": "CAD"
     },
     {
@@ -4345,7 +4292,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 52990.0,
+      "price": 51990.0,
       "price_currency": "CAD"
     },
     {
@@ -4356,7 +4303,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 51990.0,
+      "price": 50990.0,
       "price_currency": "CAD"
     },
     {
@@ -4367,7 +4314,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 53990.0,
+      "price": 51990.0,
       "price_currency": "CAD"
     },
     {
@@ -4378,7 +4325,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 47990.0,
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
@@ -4389,7 +4336,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 53990.0,
+      "price": 51990.0,
       "price_currency": "CAD"
     },
     {
@@ -4580,17 +4527,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Passport BLACK EDITION / 1 OWNER NO ACCIDENTS",
-      "vin": "5FNYF8H84SB500015",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/3fcdb341236f.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 48500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Elantra PREFERRED WITH SUNROOF & TECHNOLOGY PKG / NO ACCIDENTS",
       "vin": "KMHLM4DG3SU007130",
       "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/79251784b8ff.html",
@@ -4736,7 +4672,7 @@
     {
       "name": "2025 Hyundai Tucson Hybrid N-Line",
       "vin": "KM8JCDD1XSU283732",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/9b4d4121c404.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/3def655ec7c0.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -4852,17 +4788,6 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Jeep Wrangler Sport",
-      "vin": "1C4PJXDG4SW605554",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/7e723d7330fb.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 53998.0,
       "price_currency": "CAD"
     },
     {
@@ -5001,17 +4926,6 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used"
-    },
-    {
-      "name": "2025 Nissan Versa SV",
-      "vin": "3N1CN8EVXSL863978",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/d042a14c90cc.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Versa",
-      "condition": "used",
-      "price": 23888.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2025 Nissan Versa SV | FWD | CLOTH | BACK UP CAM | HEATED SEATS |",
@@ -5346,7 +5260,7 @@
     {
       "name": "2026 Genesis GV80 3.5T Prestige Black",
       "vin": "KMUHCESC9TU339039",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/92c399d4636c.html",
+      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/0030c861e980.html",
       "year": 2026,
       "make": "Genesis",
       "model": "GV80",
@@ -5759,17 +5673,6 @@
       "model": "Tundra",
       "condition": "used",
       "price": 69695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos COMFORTLINE | 4 MOTION AWD",
-      "vin": "3VVUC7B23TM016728",
-      "url": "https://willyml1979-dotcom.github.io/country-hills-nissan-mirror/used/a7bf74dfdaa1.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 33888.0,
       "price_currency": "CAD"
     },
     {
